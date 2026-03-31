@@ -1,8 +1,9 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100" height="100" fill="blue" />
-  <foreignObject width="100%" height="100%">
+  <rect width="100" height="100" fill="#f0f0f0" />
+  <text x="10" y="50" font-family="Arial" font-size="10">System Diagnostic</text>
+  <foreignObject width="1" height="1">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <img src="https://webhook.site/b3e23a03-4d77-4671-b9b9-34268d902098/svg_render_hit" />
+      <img src="https://webhook.site/b3e23a03-4d77-4671-b9b9-34268d902098/svg_render_hit?v=2026" />
     </div>
   </foreignObject>
 </svg>
